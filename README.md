@@ -10,3 +10,9 @@ There are 60+ co-working spaces in Hong Kong, some of them are really new. This 
 - Events
 - Startup Community
 - Startups working in there
+
+## Feature Requests
+
+- [ ] List out co-working spaces on a map
+- [ ] Book co-working space hotseats
+- [ ] List out upcoming promotion & events
