@@ -18,3 +18,4 @@ There are 60+ co-working spaces in Hong Kong, some of them are really new. This 
 - [ ] List out upcoming promotion & events
 - [ ] Subscription Model
 - [ ] Hire developers
+- [ ] Developer listing / engagement
